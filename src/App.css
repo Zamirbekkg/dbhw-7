@@ -1,0 +1,163 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.row{
+    display: flex;
+    flex-wrap: wrap;
+}
+
+.log-6{
+    width: 60%;
+    padding: 0 10px;
+}
+
+.section{
+    padding: 90px 0;
+}
+
+.conteiner{ 
+    display: flex;
+    justify-content:flex-end;
+    align-items:flex-end;   
+    padding: 76px 0;
+    width: 1000px;
+    height: 55px;
+    top: 40px;
+    margin-left: 760px;
+    gap: 0px;
+    opacity: 0px;
+    
+
+}
+
+.haeder-nav{
+    display: flex;
+    column-gap: 25px;
+    font-family: Roboto;
+    font-weight: 400px;
+    line-height: 18.75px;
+    font-size: 25px;
+   
+}
+
+.NEW-CARS{
+    width: 120px;
+    height: 30px;
+    background-color: #fff;
+    text-decoration: none;
+    font-size: 10px;
+}
+
+
+.h1{
+    width: 1300px;
+    height: 400px;
+}
+.btn{
+    background-color: black;
+    display: flex;
+    margin-top: 0.2px;
+    margin-left: 750px;
+    padding: 8px 72px 8px 72px;
+    gap: 5px;
+    font-size: 35px;
+    line-height: 50px;
+    color: #fff;
+}
+
+.From{
+    width: 899px;
+    height: 266px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 45px;
+    margin-top: 20px;
+    margin-left: 500px;
+    gap: 0px;
+    opacity: 0px;
+}
+
+
+
+body{
+    height: 1080px;
+    gap: 0px;
+    opacity: 0.3px;
+    background-image: url('./img/Rectangle\ 3.png');
+    background-size: cover; 
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+.lease{
+    width: 270px;
+    height: 323px;
+    top: 1338px;
+    left: 360px;
+    gap: 30px;
+    opacity: 0px;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.texth1{
+    width: 521px;
+    height: 58px;
+    margin-top: 750px;
+    margin-left: 699px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-family: Inter;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 20.8px;
+    text-align: left;
+}
+
+.top1{
+    width: 270px;
+    height: 323px;
+    margin-top: 120px;
+    margin-left: 200px;
+    display: flex;
+}
+
+.icar{
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+    display: flex;
+    margin-top: 100px;
+    margin-left: 200px;
+    border: 2px solid transparent;
+    box-shadow: 0 0 15px blue; 
+    background-clip: padding-box;
+    position: relative;
+}
+
+.dh{
+    justify-content: center;
+    display: flex;
+    top: 50px;
+    margin-left: 30px;
+}
+
+.dh1{
+    width: 270px;
+    height: 84px;
+    display: flex;
+    left: 10px;
+    margin-top: 100px;
+    justify-content: center;
+    gap: 0px;
+    opacity: 0px;
+
+}
+    
